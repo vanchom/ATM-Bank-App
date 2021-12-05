@@ -1,0 +1,16 @@
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.exe
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.deps.json
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.dll
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\bin\Debug\net5.0\Bank.pdb
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.dll
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.pdb
+C:\Users\ivan\Desktop\c#\ATM\ATM\ATM\obj\Debug\net5.0\Bank.genruntimeconfig.cache
